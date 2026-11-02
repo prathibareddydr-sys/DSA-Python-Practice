@@ -1,0 +1,25 @@
+write a python program tocheck whether the number is even or odd.
+def num():
+    n = int(input("enter the numbers"))
+    if n % 2 == 0:
+        print("even")
+    else:
+        print("odd")
+num()
+
+write a program to calucalate sum of two numbers.
+a = int(input("enter a number")
+b = int(input("enter a number")
+c = a + b
+print(c)
+
+write a program to find the largest number among three given numbers.
+def num():
+    n = int(input("enter a number"))
+    if n>=0:
+        print("largest number")
+    elif n<=0:
+        print("smallest number")
+    else:
+        print("zero")
+num()
